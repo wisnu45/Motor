@@ -1,0 +1,125 @@
+body {
+ background:url(../../Images/images14.jpg);
+ font-family: "calibri";
+}
+#wrapper {
+	width: 1100px;
+	height: auto;
+	padding: 20px;
+	background-color: #FFF;
+	box-shadow: 0px 0px 20px #F60;
+	-moz-box-shadow:0px 0px 20px #F60;
+	-webkit-box-shadow: 0px 0px 20px #F60;
+	border-radius: 17px;
+	-moz-border-radius: 17px;
+	-webkit-border-radius: 17px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+}
+#header {
+	width: 1100px;
+	border: 1px solid #CCC;
+	margin-bottom: 7px;
+	text-align: center;
+}
+#menu {
+ width: 1100px;
+ height: 40px;
+ margin-bottom: 7px;
+ border: 1px solid #FFF;
+ background-color: #CCC;
+ font-size:17px;
+ border-radius: 5px;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+}
+#content {
+	width: 1100px;
+	margin-bottom: 2px;
+	border: 1px solid #CCC;
+	margin-bottom: 7px;
+}
+#content img{
+ border-radius: 17px;
+ -moz-border-radius: 17px;
+ -webkit-border-radius: 17px;
+ box-shadow: 0px 0px 10px #CCC;
+ -moz-box-shadow:0px 0px 10px #CCC;
+ -webkit-box-shadow: 0px 0px 10px #CCC;
+ padding: 2px; margin-right: 10px;
+ float:left;
+}
+#footer {
+ width: 1100px;
+ height: 20px;
+ padding-top: 0px;
+ border: 1px solid #CCC;
+ text-align: center;
+ background-color: #CCC;
+ clear: both;
+ border-radius: 3px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+}
+#paging{
+width:580px;
+margin-top:530px;
+height:37px;
+border:1px dashed #666666;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#paging a{
+text-align:center;
+color:#FF9900;
+text-decoration:none;
+}
+#paging a:hover{
+color:#FFFFFF;
+text-decoration:none;
+}
+#kotak-paging{
+text-align:center;
+margin:5px;
+padding:5px;
+width:50px;
+float:left;
+border:1px dashed #666666;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#kotak-tambah{
+text-align:center;
+margin:5px;
+padding:5px;
+float:left;
+border:1px dashed #666666;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#kotak-tambah:hover{
+cursor:pointer;
+background-color:#FF0000;
+padding:5px;
+float:left;
+border:1px dashed #666666;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#kotak-paging:hover{
+cursor:pointer;
+background-color:#FF0000;
+padding:5px;
+width:50px;
+float:left;
+border:1px dashed #666666;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
